@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Editor / OS files
+.vscode/
+.DS_Store
